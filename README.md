@@ -1,7 +1,12 @@
 
 ## Getting Started
 
-First, run the development server:
+First, run the local database:
+```bash
+docker-compose up 
+```
+
+Next, run the development server:
 
 ```bash
 npm run dev
